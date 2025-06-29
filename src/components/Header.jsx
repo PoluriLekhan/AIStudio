@@ -73,7 +73,7 @@ const Header = () => {
         >
           Portifolio
         </a>
-        <Button className="hidden lg:flex" href="#">
+        <Button className="hidden lg:flex" href="https://comming-soon-ashy.vercel.app/">
           AI Tools
         </Button>
 
