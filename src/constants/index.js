@@ -50,23 +50,23 @@ export const navigation = [
   {
     id: "2",
     title: "AI",
-    url: "#how-to-use",
+    url: "#",
   },
   {
     id: "3",
     title: "Developers Community",
-    url: "#roadmap",
+    url: "#",
   },
   {
     id: "4",
     title: "Portfolio",
-    url: "#signup",
+    url: "https://portifolio-steel-psi-95.vercel.app/",
     onlyMobile: true,
   },
   {
     id: "5",
     title: "AI Tools",
-    url: "#login",
+    url: "#",
     onlyMobile: true,
   },
 ];
