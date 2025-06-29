@@ -50,12 +50,12 @@ export const navigation = [
   {
     id: "2",
     title: "AI",
-    url: "#",
+    url: "https://comming-soon-ashy.vercel.app/",
   },
   {
     id: "3",
     title: "Developers Community",
-    url: "#",
+    url: "https://comming-soon-ashy.vercel.app/",
   },
   {
     id: "4",
@@ -66,7 +66,7 @@ export const navigation = [
   {
     id: "5",
     title: "AI Tools",
-    url: "#",
+    url: "https://comming-soon-ashy.vercel.app/",
     onlyMobile: true,
   },
 ];
