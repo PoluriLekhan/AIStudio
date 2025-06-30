@@ -1,4 +1,7 @@
 import {
+  benefitCard1,
+  benefitCard2, benefitCard3,
+  benefitCard4, benefitCard5, benefitCard6,
   benefitIcon1,
   benefitIcon2,
   benefitIcon3,
@@ -35,6 +38,12 @@ import {
   twitter,
   yourlogo,
 } from "../assets";
+{ benefitCard4 }
+{ benefitCard2 }
+{ benefitCard3 }
+{ benefitCard1 }
+{ benefitCard5 }
+{ benefitCard6 }
 
 export const navigation = [
   {
@@ -259,16 +268,16 @@ export const benefits = [
     id: "0",
     title: "Discover AI Tools",
     text: "Easily browse and explore a curated library of AI tools for every category—Free, Paid, or Credit-based.",
-    backgroundUrl: "/assets/benefits/card-1.svg",
-
+    backgroundUrl: benefitCard1,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
+
   },
   {
     id: "1",
     title: "Join Developer Community",
     text: "Collaborate on projects, publish tutorials, and connect with developers building the future of AI.",
-    backgroundUrl: "/assets/benefits/card-1.svg",
+    backgroundUrl: benefitCard2,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,
@@ -277,7 +286,7 @@ export const benefits = [
     id: "2",
     title: "Fast Messaging AI",
     text: "Instantly chat with an AI assistant  — lightning-fast, natural replies for all topics.",
-    backgroundUrl: "/assets/benefits/card-1.svg",
+    backgroundUrl: benefitCard3,
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
@@ -285,7 +294,7 @@ export const benefits = [
     id: "3",
     title: "Multi-Model AI Search",
     text: "Search across multiple AI models and APIs to get the most diverse and accurate answers in one place.",
-    backgroundUrl: "/assets/benefits/card-1.svg",
+    backgroundUrl: benefitCard4,
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
     light: true,
@@ -294,7 +303,7 @@ export const benefits = [
     id: "4",
     title: "Voice Interaction AI",
     text: "Speak to the AI — it listens, analyzes your voice, and replies intelligently using voice & text.",
-    backgroundUrl: "/assets/benefits/card-1.svg",
+    backgroundUrl: benefitCard5,
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
@@ -302,7 +311,7 @@ export const benefits = [
     id: "5",
     title: "Learn from Top Developers",
     text: "Watch exclusive tutorials, walkthroughs, and interviews with AI builders and creators.",
-    backgroundUrl: "/assets/benefits/card-1.svg",
+    backgroundUrl: benefitCard6 ,
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
   },
