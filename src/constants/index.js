@@ -130,7 +130,7 @@ export const roadmap = [
     id: "3",
     title: "Learning + Course Platform",
     text: "earn how to build with AI. Our interactive course system offers guided lessons, tutorials, certifications, and project-based learning — everything you need to become an AI creator.",
-    date: "Coming Soon",
+    date: "August 2025",
     status: "IN PLANNING",
     imageUrl: roadmap4,
   },
