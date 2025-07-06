@@ -59,7 +59,7 @@ export const navigation = [
   {
     id: "2",
     title: "AI",
-    url: "https://comming-soon-ashy.vercel.app/",
+    url: "https://lekhan-studio.vercel.app/",
   },
   {
     id: "3",
